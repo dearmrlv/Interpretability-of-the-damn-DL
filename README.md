@@ -1,5 +1,4 @@
-# interpretation-the-damn-DL
-sharing the code and notes about our project
+# sharing the code and notes about our project
 
 ## members:
 * ZhengYang Lv
